@@ -1,0 +1,2 @@
+# AppliedCS
+Speller App
